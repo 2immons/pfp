@@ -397,6 +397,10 @@ body {
     .container{
         width: 90%;
     }
+    .logo-wrapper{
+        width: 100%;
+        justify-content: center;
+    }
     .burger-button{
         display: flex;
         position: absolute;
